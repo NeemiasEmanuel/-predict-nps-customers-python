@@ -63,5 +63,5 @@ O código está organizado em seções:
 
 ## 👨‍🏫 Autoria
 
-Projeto desenvolvido por alunos como parte da disciplina de [nome da disciplina], [nome da instituição].
+Projeto desenvolvido por alunos como parte da disciplina de Data Science, UP-Universidade Positivo.
 
